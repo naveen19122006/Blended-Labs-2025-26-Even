@@ -69,5 +69,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Shivani M (212224040313)
+**Name:** Naveen Kumar E (212224230181)
+
 **Course:** Introduction to Cloud Computing  
